@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a graduating 4th-year **Computer Engineering student** at **Wesleyan University – Philippines** in Cabanatuan City, Nueva Ecija, with a strong passion for networking and IT infrastructure. As I complete my degree, I am actively seeking opportunities as a **Junior Network Engineer** or in a related networking role where I can apply and grow my technical skills.
 
@@ -26,17 +26,17 @@ Throughout my academic journey, I have built hands-on experience in network desi
 
 I am driven by a desire to bridge the gap between software development and network engineering — building tools and systems that make network infrastructure more observable, manageable, and reliable.
 
-- 🎓 Graduating **Computer Engineering** student (2026)
-- 🌐 Aspiring **Junior Network Engineer**
-- 🛠️ Experienced with **Cisco** and **MikroTik** device configuration
-- 💡 Passionate about **network monitoring**, **automation**, and **infrastructure management**
-- 📍 Based in **Nueva Ecija, Philippines**
+- Graduating **Computer Engineering** student (2026)
+- Aspiring **Junior Network Engineer**
+- Experienced with **Cisco** and **MikroTik** device configuration
+- Passionate about **network monitoring**, **automation**, and **infrastructure management**
+- Based in **Nueva Ecija, Philippines**
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔷 NetworkWeaver *(Thesis Project)*
+### NetworkWeaver *(Thesis Project)*
 > A comprehensive web-based solution for real-time network monitoring and remote configuration management from a unified dashboard.
 
 **Key Features:**
@@ -53,7 +53,7 @@ I am driven by a desire to bridge the gap between software development and netwo
 
 ---
 
-### 🔷 EIGRP BPO Network Infrastructure *(Cisco Packet Tracer)*
+### EIGRP BPO Network Infrastructure *(Cisco Packet Tracer)*
 > Designed and implemented a hierarchical network topology for a simulated BPO company environment.
 
 - Structured network using a **three-tier hierarchical model** (Core, Distribution, Access)
@@ -63,9 +63,9 @@ I am driven by a desire to bridge the gap between software development and netwo
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-### 🌐 Networking
+### Networking
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logoColor=white)
 
@@ -74,7 +74,7 @@ I am driven by a desire to bridge the gap between software development and netwo
 
 ---
 
-### 💻 Programming & Development
+### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -84,7 +84,7 @@ I am driven by a desire to bridge the gap between software development and netwo
 
 ---
 
-### 🗄️ Databases & Monitoring
+### Databases & Monitoring
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -94,19 +94,19 @@ I am driven by a desire to bridge the gap between software development and netwo
 
 ---
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 ---
 
-### 🔧 Hardware
+### Hardware
 `Computer Troubleshooting` `Hardware Installation & Repair` `Network Device Configuration`
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuing Body |
 |---|---|
