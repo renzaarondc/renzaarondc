@@ -110,6 +110,7 @@ I am driven by a desire to bridge the gap between software development and netwo
 
 | Certification | Issuing Body |
 |---|---|
+|3CX Basic Certified Engineer V20 | 3CX |
 | CCNA: Switching, Routing, and Wireless Essentials | Cisco Networking Academy |
 | CCNA: Introduction to Networks | Cisco Networking Academy |
 | NDG: Linux Essentials | Cisco Networking Academy |
@@ -121,14 +122,6 @@ I am driven by a desire to bridge the gap between software development and netwo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renzaarondc&show_icons=true&theme=tokyonight&hide_border=true" alt="Renz Aaron's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzaarondc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
 
 <p align="center">
   <i>Open to opportunities in network engineering, IT infrastructure, and related fields. Feel free to reach out!</i>
