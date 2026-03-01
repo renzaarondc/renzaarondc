@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Renz Aaron 👋</h1>
+<h1 align="center">Hi there, I'm Renz Aaron! </h1>
 <h3 align="center">Aspiring Junior Network Engineer | Computer Engineering Student</h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ Throughout my academic journey, I have built hands-on experience in network desi
 
 I am driven by a desire to bridge the gap between software development and network engineering — building tools and systems that make network infrastructure more observable, manageable, and reliable.
 
-- 🎓 Graduating **Computer Engineering** student (2025)
+- 🎓 Graduating **Computer Engineering** student (2026)
 - 🌐 Aspiring **Junior Network Engineer**
 - 🛠️ Experienced with **Cisco** and **MikroTik** device configuration
 - 💡 Passionate about **network monitoring**, **automation**, and **infrastructure management**
